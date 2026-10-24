@@ -1,0 +1,16 @@
+2026-10-24 17:21:30 [INFO] Початок демонстрації винятків
+2026-10-24 17:21:30 [ERROR] ZeroDivisionError: division by zero
+2026-10-24 17:21:30 [ERROR] ValueError: invalid literal for int() with base 10: 'abc'
+2026-10-24 17:21:30 [ERROR] IndexError: list index out of range
+2026-10-24 17:21:30 [ERROR] KeyError: ключ 'age' відсутній у словнику
+2026-10-24 17:21:30 [ERROR] FileNotFoundError: [Errno 2] No such file or directory: 'nofile.txt'
+2026-10-24 17:21:30 [WARNING] ArithmeticError перехопив ZeroDivisionError: integer modulo by zero
+2026-10-24 17:21:30 [WARNING] Exception перехопив ZeroDivisionError: division by zero
+2026-10-24 17:21:30 [WARNING] Exception перехопив ValueError: invalid literal for int() with base 10: 'x'
+2026-10-24 17:21:30 [WARNING] Exception перехопив IndexError: list index out of range
+2026-10-24 17:21:30 [WARNING] Exception перехопив KeyError: 'k'
+2026-10-24 17:21:30 [WARNING] Exception перехопив FileNotFoundError: [Errno 2] No such file or directory: 'nofile.txt'
+2026-10-24 17:21:30 [DEBUG] issubclass(KeyboardInterrupt, Exception) = False
+2026-10-24 17:21:30 [DEBUG] issubclass(KeyboardInterrupt, BaseException) = True
+2026-10-24 17:21:30 [WARNING] KeyboardInterrupt пройшов повз except Exception, його піймав лише зовнішній блок
+2026-10-24 17:21:30 [INFO] Демонстрацію завершено
