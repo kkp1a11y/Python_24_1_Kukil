@@ -1,0 +1,42 @@
+--- EMAIL-АДРЕСИ ---
+olena.kovalenko@example.com
+andrii@example.org
+maria.b@example.net
+dmytro@example.com
+sofia@example.org
+ivan.k@example.net
+natalia@example.com
+bohdan@example.org
+kateryna@example.net
+yurii@example.com
+support@example.org
+admin@example.net
+
+--- НОМЕРИ ТЕЛЕФОНІВ ---
++38(067)123-45-67
+0501234567
+063-234-56-78
++380971112233
+(093) 222-33-44
+066 345 67 89
++38 (068) 456-78-90
+0997654321
+073-555-44-33
++380 95 777 88 99
+0800123456
++38(050)987-65-43
+
+--- ДАТИ У ФОРМАТІ ISO ---
+2026-11-15
+2026-11-16
+2026-11-17
+2026-11-18
+2026-11-19
+2026-11-20
+2026-11-21
+2026-11-22
+2026-11-23
+2026-11-24
+2026-11-25
+2026-11-26
+
